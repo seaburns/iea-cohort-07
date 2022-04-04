@@ -1,10 +1,18 @@
 123
 1-2-3
+<<<<<<< HEAD
+=======
+a
+>>>>>>> e0546f30fb3d640c84b8a9228e17bca7046f831a
 abc
 amend1
 amend1.1
 amend1.1.words
 amend1.words
+<<<<<<< HEAD
+=======
+b
+>>>>>>> e0546f30fb3d640c84b8a9228e17bca7046f831a
 bar.txt
 blahblah
 da
@@ -13,6 +21,10 @@ err
 file
 filename
 find_me.sh
+<<<<<<< HEAD
+=======
+foo1
+>>>>>>> e0546f30fb3d640c84b8a9228e17bca7046f831a
 foo.sorted
 foo.txt
 hamlet.txt
@@ -29,6 +41,7 @@ out
 piat
 poem
 poem-diff
+<<<<<<< HEAD
 redirect
 somedir
 someotherfile
@@ -39,3 +52,11 @@ temp3665
 unsorted-file
 words
 x
+=======
+somedir
+sorted-file
+source1
+temp3665
+unsorted-file
+words
+>>>>>>> e0546f30fb3d640c84b8a9228e17bca7046f831a
